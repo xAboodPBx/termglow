@@ -1,0 +1,13 @@
+# TermGlow Minimal theme
+TG_NAME="Minimal"
+TG_DESCRIPTION="A lightweight, distraction-free prompt for everyday work."
+TG_SYMBOL="›"
+TG_PROMPT_CHAR="$"
+TG_PRIMARY="\[\e[38;5;250m\]"
+TG_SECONDARY="\[\e[38;5;252m\]"
+TG_ACCENT="\[\e[38;5;114m\]"
+TG_ERROR="\[\e[38;5;203m\]"
+TG_MUTED="\[\e[38;5;244m\]"
+TG_RESET="\[\e[0m\]"
+TG_LAYOUT="compact"
+TG_GIT_PREFIX=""

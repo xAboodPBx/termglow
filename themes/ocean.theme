@@ -1,0 +1,13 @@
+# TermGlow Ocean theme
+TG_NAME="Ocean"
+TG_DESCRIPTION="Calm blue tones with a spacious multiline layout."
+TG_SYMBOL="◈"
+TG_PROMPT_CHAR="❯"
+TG_PRIMARY="\[\e[38;5;39m\]"
+TG_SECONDARY="\[\e[38;5;117m\]"
+TG_ACCENT="\[\e[38;5;45m\]"
+TG_ERROR="\[\e[38;5;203m\]"
+TG_MUTED="\[\e[38;5;110m\]"
+TG_RESET="\[\e[0m\]"
+TG_LAYOUT="multiline"
+TG_GIT_PREFIX="branch: "

@@ -1,0 +1,13 @@
+# TermGlow Sunset theme
+TG_NAME="Sunset"
+TG_DESCRIPTION="Warm sunset palette with a friendly, expressive prompt."
+TG_SYMBOL="✦"
+TG_PROMPT_CHAR="❯"
+TG_PRIMARY="\[\e[38;5;215m\]"
+TG_SECONDARY="\[\e[38;5;224m\]"
+TG_ACCENT="\[\e[38;5;208m\]"
+TG_ERROR="\[\e[38;5;196m\]"
+TG_MUTED="\[\e[38;5;137m\]"
+TG_RESET="\[\e[0m\]"
+TG_LAYOUT="single"
+TG_GIT_PREFIX="in "

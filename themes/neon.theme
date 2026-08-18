@@ -1,0 +1,13 @@
+# TermGlow Neon theme
+TG_NAME="Neon"
+TG_DESCRIPTION="High-contrast cyberpunk colors for dark terminals."
+TG_SYMBOL="⬢"
+TG_PROMPT_CHAR="➜"
+TG_PRIMARY="\[\e[38;5;201m\]"
+TG_SECONDARY="\[\e[38;5;51m\]"
+TG_ACCENT="\[\e[38;5;226m\]"
+TG_ERROR="\[\e[38;5;196m\]"
+TG_MUTED="\[\e[38;5;240m\]"
+TG_RESET="\[\e[0m\]"
+TG_LAYOUT="compact"
+TG_GIT_PREFIX="git:"

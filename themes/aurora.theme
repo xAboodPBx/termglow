@@ -1,0 +1,13 @@
+# TermGlow Aurora theme
+TG_NAME="Aurora"
+TG_DESCRIPTION="Cool northern lights with a clean two-color prompt."
+TG_SYMBOL="◆"
+TG_PROMPT_CHAR="❯"
+TG_PRIMARY="\[\e[38;5;81m\]"
+TG_SECONDARY="\[\e[38;5;147m\]"
+TG_ACCENT="\[\e[38;5;42m\]"
+TG_ERROR="\[\e[38;5;203m\]"
+TG_MUTED="\[\e[38;5;245m\]"
+TG_RESET="\[\e[0m\]"
+TG_LAYOUT="single"
+TG_GIT_PREFIX="on "

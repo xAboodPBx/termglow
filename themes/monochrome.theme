@@ -1,0 +1,13 @@
+# TermGlow Monochrome theme
+TG_NAME="Monochrome"
+TG_DESCRIPTION="Elegant grayscale prompt for minimal or remote environments."
+TG_SYMBOL="•"
+TG_PROMPT_CHAR=">"
+TG_PRIMARY="\[\e[38;5;255m\]"
+TG_SECONDARY="\[\e[38;5;250m\]"
+TG_ACCENT="\[\e[38;5;247m\]"
+TG_ERROR="\[\e[38;5;255m\]"
+TG_MUTED="\[\e[38;5;242m\]"
+TG_RESET="\[\e[0m\]"
+TG_LAYOUT="single"
+TG_GIT_PREFIX="git:"
